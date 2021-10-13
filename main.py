@@ -129,8 +129,9 @@ def main():
          print('Optiune invalida')
 
 if __name__ == '__main__':
-    main()
     test_get_longest_all_even()
     test_get_longest_same_div_count()
     test_get_longest_all_prime()
+    main()
+
 
